@@ -1,0 +1,1 @@
+start the slidev server using `npx slidev` and fix any errors that occur
